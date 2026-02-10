@@ -23,6 +23,7 @@
  * The time class represents a moment of time.
  */
 
+#import <Foundation/Foundation.h>
 #import "JSONObjectExtractorProtocol.h"
 
 @interface JSONObjectExtractor : NSObject
